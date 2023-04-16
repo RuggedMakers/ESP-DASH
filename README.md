@@ -1,4 +1,5 @@
 <p>
+<h2>I wanted to try my hand at converting the Arduino based DASH project into a project which only depends on ESP-IDF +v5.0</h2>
   <br/>
 </p>
 <p align="center"><img src="/docs/dash-github-splash.png?sanitize=true&raw=true" width="700"></p>
